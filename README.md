@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning  MongoDB,  TypeScript , React Native<br>💬 Ask me about javaScript and react<br>📫 You can reach me mehedihasanfoysal8@gmail.com<br>⚡ Fun fact I am funny😁💕
+🌱 I’m currently learning  MongoDB,  TypeScript , React Native<br>💬 Ask me about javaScript and react<br>📫 You can reach me mehedihasanfoysal22@gmail.com<br>⚡ Fun fact I am funny😁💕
 
 
 ## 🌐 Socials:
