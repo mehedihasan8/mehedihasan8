@@ -1,6 +1,6 @@
 
-# 💫 Hello World, I'm Mehedi Hasan Foysal!
-🌱 I’m currently learning Docker, React Native<br>💬 Ask me about anything javaScript react js and next js<br>📫 You can reach me mehedihasanfoysal22@gmail.com<br>⚡ Fun fact I am so funny😁💕
+# 💫 Hello World, I'm Mehedi Hasan Foysal !
+🌱 I’m currently learning Docker, React Native.<br>💬 Ask me about anything javaScript react js and next js.<br>📫 You can reach me mehedihasanfoysal22@gmail.com<br>⚡ Fun fact I am so funny😁💕
 
 
 ## 🌐 Socials:
@@ -23,10 +23,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mehedihasan8&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=mehedihasan8&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
